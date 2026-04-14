@@ -11,9 +11,10 @@ Progetto Node.js che permette di ottenere dati meteo in tempo reale inserendo il
 
 ## Come eseguire il progetto
 
+- Node.js 18+
+
 ## Requisiti
 
-- Node.js 18+
 
 ```bash
 node weather.js "Roma"
